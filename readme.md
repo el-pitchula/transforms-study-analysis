@@ -1,9 +1,8 @@
-<h1 align="center">PID control of the
-<p>satellite-camera system with Arduino<p></h1>
+<h1 align="center">Transform Studies</h1>
 
 
 <div align="center">
-  <strong>🚀 add descrição (resumo do projeto) </strong>
+  <strong>🚀 Is abouts how transfroms really works, fist for Laplace e Fourier </strong>
 </div>
 
 <div align="center">
@@ -26,10 +25,11 @@ falar sobre a comunicação entre os códigos (muito provavelmente só pelas pas
 
 - C/C++ for arduino (.ino)
 - Python (.py)
+- Jupyter (.ipynb)
 - MATLAB (.m)
 - ...
 
-[![Tec](https://skillicons.dev/icons?i=py,cpp,vscode,blender,matlab,arduino)](https://skillicons.dev)
+[![Tec](https://skillicons.dev/icons?i=py,cpp,vscode,blender,matlab,arduino,ipynb)](https://skillicons.dev)
 
 add links para as respectivas documentações ou sites oficiais
 
